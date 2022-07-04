@@ -1,0 +1,143 @@
+nombre,procedencia,edad,ocupacion,ranking,edicion,sexo,ocupacion2
+Juan Manuel Sánchez, Almería,26,Camarero,1,1,M,Hostelería
+Eva M. Millán, Córdoba,32,Bióloga y nutricionista,2,1,F,Salud
+Fabián León, Mallorca,18,Estudiante de Publicidad,3,1,M,Estudiante
+José David Moliner, Valencia,33,Ingeniero informático,4,1,M,Ingeniería
+Maribel Gil, Castellón,59,Ama de casa,5,1,F,Ama/o de casa
+José Antonio Cerezo, Teruel,37,Soldador,6,1,M,Oficio manual
+Clara Pérez Villalón, Madrid,22,Estudiante de Economía,7,1,F,Estudiante
+María de la Fuente, Alicante,23,Maquilladora y esteticista,8,1,F,Belleza
+José Luis Asín, Navarra,58,Policía Foral,9,1,M,Defensa
+Noé Carmona, Córdoba,31,Administrador de ingresos,10,1,M,Administrativo/a
+Santiaga Muñoz, Ciudad Real,52,Ama de casa,11,1,F,Ama/o de casa
+Efrén Álvarez, Lugo,24,Estudiante de CAF,12,1,M,Estudiante
+Nati Sánchez, Álava,42,Asistente administrativo,13,1,F,Administrativo/a
+Juanma Villar (†), Madrid,48,Ingeniero de Telecomunicaciones,14,1,M,Ingeniería
+Paloma Ayensa, Madrid,22,Estudiante de Derecho,15,1,F,Estudiante
+Vicky Pulgarín, Mallorca,31,Carnicera en paro,1,2,F,Oficio alimentación
+Mateo Sierra, Huesca,20,Estudiante de Historia del Arte,2,2,M,Estudiante
+Cristóbal Gómez, Granada,32,Camarero,3,2,M,Hostelería
+Emil Samper, Barcelona,44,Realizador de publicidad,4,2,M,Publicidad y márqueting
+Lorena Lasanta, Málaga,39,Ingeniera de sonido y DJ,5,2,F,Ingeniería
+Cristina Romero, Madrid,46,Empresaria,6,2,F,Empresario/a
+Milagrosa Gavilán, Cádiz,50,Dependienta,7,2,F,Moda
+Marina Rodríguez, Mallorca,46,Ex asistente de dirección,8,2,F,Administrativo/a
+Gonzalo Ribot, Mallorca,48,Profesor de Yoga,9,2,M,Yoga o artes marciales
+Celia Lastres, Madrid,27,Técnico de radioterapia,10,2,F,Salud
+Jorge Cuéllar, Segovia,35,Doctor en Biología molecular,11,2,M,Salud
+Miguel Ángel Martínez, Madrid,41,Oficial funerario,12,2,M,Tanatorio
+Churra Costa, Pontevedra,71,Ama de casa,13,2,F,Ama/o de casa
+Daniel Díez, Valencia,34,Arquitecto,14,2,M,Arquitectura
+Lola Hidalgo, Córdoba,22,Estudiante de Ciencias Ambientales,15,2,F,Estudiante
+Carlos Maldonado, Toledo,25,Vendedor ambulante,1,3,M,Vendedor ambulante
+Sally Stephanih Caballero, Ciudad Real,31,Auxiliar de óptica,2,3,F,Salud
+Andrea Vicens, Barcelona,22,Estudiante de Odontología y modelo,3,3,F,Estudiante
+Antonio Romero, Sevilla,26,Técnico de laboratorio,4,3,M,Salud
+Kevin Bordas, Tarragona,22,Camarero y modelo,5,3,M,Hostelería
+Lidia Folgar, Pontevedra,29,Nutricionista,6,3,F,Salud
+Mila Calabuig, Valencia,58,Empresaria de calzado,7,3,F,Empresario/a
+Fidel López, Alicante,36,Camarero,8,3,M,Hostelería
+Pablo Pérez, Valencia,27,Campeón y maestro de artes marciales,9,3,M,Yoga o artes marciales
+Víctor Mendicuti, Málaga,30,Empresario de ambientadores,10,3,M,Empresario/a
+Mireia Ruiz, Murcia,33,Voluntaria de ONG,11,3,F,Social
+Encina Rodríguez, Valencia,70,Jubilada,12,3,F,Jubilado/a
+Raquel García, Navarra,32,Protésico dental,13,3,F,Salud
+Sara Martín, Barcelona,27,Profesora de infantil,14,3,F,Profesor/a
+Alberto Sempere, Valencia,18,Estudiante de Medicina,15,3,M,Estudiante
+Virginia Naranjo, Cádiz,39,Ama de casa,1,4,F,Ama/o de casa
+Ángel García, Valencia,31,Friegaplatos,2,4,M,Hostelería
+José Luis Losa (†), Albacete,41,Pintor industrial,3,4,M,Oficio manual
+Rocío Morcillo, Barcelona,43,Empresaria,4,4,F,Empresario/a
+Raquel Naranjo, Cádiz,39,Ama de casa,5,4,F,Ama/o de casa
+David González, Cantabria,20,Estudiante de CAFD,6,4,M,Estudiante
+Natalia Khodzinskaya, Barcelona,28,Modelo y periodista,7,4,F,Periodista
+Pablo López, La Coruña,39,Ingeniero de estructuras,8,4,M,Ingeniería
+Reichel Pardo, Teruel,33,Camarera,9,4,F,Hostelería
+Daniel del Toro, Huelva,45,Empresario,10,4,M,Empresario/a
+Dania Gandul, Sevilla,33,Teleoperadora,11,4,F,Comercial
+Juan Rosillo, Sevilla,20,Estudiante de Enfermería,12,4,M,Estudiante
+Esmeralda Marcos, Valencia,45,Desempleada,13,4,F,Paro
+Salvador Linares, Alicante,31,Auxiliar administrativo,14,4,M,Administrativo/a
+Emilia Cuenca, Madrid,64,Ama de casa,15,4,F,Ama/o de casa
+Ana Aniuska March, Valencia,22,Profesora y atleta,16,4,F,Profesor/a
+Jorge Brazález, Granada,28,Exfutbolista profesional,1,5,M,Deporte
+Nathan Minguell, Barcelona,27,Jefe de sala,2,5,M,Hostelería
+Edurne Trancho, Guipúzcoa,65,Jubilada,3,5,F,Jubilado/a
+Elena Sánchez, Sevilla,31,Policía Nacional,4,5,F,Defensa
+Miri Pérez-Cabrero, Barcelona,23,Bloguera,5,5,F,Influencer
+Silene Carvalho da Rocha, Madrid,43,Panadera,6,5,F,Oficio alimentación
+Odkhuu Erdenebayar, Barcelona,30,Diseñador de moda,7,5,M,Diseñador/a
+José María González, Cádiz,31,Banderillero,8,5,M,Banderillero
+Laila Kachán, Valencia,35,Modelo profesional,9,5,F,Modelo
+José Luis Castán, Madrid,45,Emprendedor de negocios,10,5,M,Empresario/a
+Paloma Garralda, Madrid,28,Abogada,11,5,F,Abogacía
+Adrián Gómez, Tarragona,26,Camarero,12,5,M,Hostelería
+Lorena Jiménez, Barcelona,32,Peluquera y maquilladora,13,5,F,Belleza
+Salva García, Barcelona,50,Peluquero,14,5,M,Belleza
+Paula Martínez, Madrid,28,Psicóloga,15,5,F,Psicología
+Jordi Plà, Barcelona,49,Delegado comercial,16,5,M,Comercial
+Marta Verona, Madrid,22,Estudiante de Nutrición,1,6,F,Estudiante
+Ketty Fresneda, Pontevedra,28,Dietista,2,6,F,Salud
+Oxana Retinskaia, Gijón,52,Empleada de hogar,3,6,F,Empleada de hogar
+Toni Carceller, Valencia,33,Community manager,4,6,M,Community manager
+Daniel Escribano, Madrid,32,Bombero,5,6,M,Defensa
+Sofía Janer, Barcelona,21,Estudiante de Turismo,6,6,F,Estudiante
+Víctor G. Pérez, Barcelona,34,Ingeniero de telecomunicaciones,7,6,M,Ingeniería
+Jon Marín, Vizcaya,52,Hostelero,8,6,M,Hostelería
+Fabio Fernández-Amo, Madrid,35,Financiero,9,6,M,Finanzas
+Jorge Esteban, Granada,27,Periodista,10,6,M,Periodista
+Marina Arnal, Valencia,53,Comerciante,11,6,F,Comercial
+Ramón Martín, Madrid,41,Conductor de autobuses,12,6,M,Oficio manual
+Eva Sakay, Barcelona,42,Comercial,13,6,F,Comercial
+Loli Rodríguez, Sevilla,71,Jubilada,14,6,F,Jubilado/a
+Fernando de Alvear, Madrid,42,Bodeguero,15,6,M,Influencer
+Aleix Puig, Barcelona,26,Pescadero,1,7,M,Oficio alimentación
+Teresa Abalde, La Coruña,45,Fotógrafa,2,7,F,Fotografía
+Valentín García, Madrid,30,Emprendedor,3,7,M,Empresario/a
+Aitana Ávila, Vizcaya,32,Recursos Humanos,4,7,F,RRHH
+Carlos Alba, Sevilla,39,Empresario,5,7,M,Empresario/a
+Samira Fernández, Barcelona,26,Ama de casa,6,7,F,Ama/o de casa
+Carmen Alcoba, Cáceres,29,Dependienta,7,7,F,Moda
+Natalia Martínez, Asturias,28,Diseñadora de lápidas,8,7,F,Diseñador/a
+Gloria Morales, Badajoz,36,Empleada del hogar,9,7,F,Empleada del hogar
+Marcos Moya, Valencia,37,Cerrajero forense,10,7,M,Oficio manual
+Osiris Florentino, Valencia,37,Camarero,11,7,M,Hostelería
+Josecho Velasco, Madrid,73,Economista jubilado,12,7,M,Jubilado/a
+Laly Pascual, Ávila,51,Ama de casa,13,7,F,Ama/o de casa
+Alicia Vallés, Barcelona,42,Comercial de informática,14,7,F,Comercial
+Sara Muñoz, Tarragona,24,Ingeniera mecánica,15,7,F,Ingeniería
+Jeancha Yamada, Madrid,34,Estadístico,16,7,M,Estadístico
+Ana Iglesias, Madrid,24,Empresaria de joyas,1,8,M,Empresario/a
+Andy García, Madrid,26,Abogado,2,8,F,Abogacía
+Iván Mariñas, La Coruña,39,Entrenador personal,3,8,F,Deporte
+Alberto Gras, Barcelona,31,Exjugador y entrenador de fútbol sala,4,8,M,Deporte
+Luna Zacharias, Las Palmas,29,Profesora de yoga,5,8,F,Yoga o artes marciales
+José Mari Royo, Mallorca,46,Empresario y músico,6,8,M,Empresario/a
+Juana Ferrer, Segovia,74,Conserje de comunidad de vecinos,7,8,M,Conserje
+Michael Salazar, Barcelona,50,Profesor de Inglés,8,8,F,Profesor/a
+Teresa Sanfeliu, Barcelona,57,Economista,9,8,F,Economista
+Carlos García-Delgado, Sevilla,41,Comercial de tabaco,10,8,M,Comercial
+Sara Lúa Barreiro, La Coruña,33,Directora de tienda nupcial,11,8,M,Moda
+Sonsoles Conde, Burgos,43,Farmacéutica,12,8,F,Salud
+Fidel Ministerio, Barcelona,36,Músico,13,8,F,Música
+Saray Carrillo, Córdoba,27,Educadora social,14,8,M,Social
+Rosa García, León,49,Comandante del Ejército del Aire,15,8,M,Defensa
+Mónica Longo, Oviedo,48,Limpiadora y camarera,16,8,M,Hostelería
+Adrienne Chaballe, Sevilla,34,Directora de Marketing,17,8,F,Publicidad y márqueting
+Sito Camaño, Madrid,38,Empleado de tanatorio,18,8,M,Tanatorio
+Arnau París, Barcelona,32,Comercial de grifos,1,9,F,Comercial
+Meri Rodas, Barcelona,24,Fisioterapeuta y estudiante de Medicina,2,9,F,Salud
+María Morales, Ciudad Real,27,Coordinadora de eventos,3,9,F,Eventos
+Fran Martínez, Cuenca,30,Camarero,4,9,F,Hostelería
+Ofelia Hentschel, La Coruña,29,Emprendedora de marketing hípico,5,9,F,Emprendedor/a
+José Abellán, Murcia,34,Cardiólogo,6,9,F,Salud
+Toni de Pascual, Mallorca,34,Jugador profesional de póquer,7,9,F,Póquer
+"Amelia Platón, ""Amelicious""", Barcelona,23,Estudiante de Farmacia y Nutrición,8,9,F,Estudiante
+Jiaping Ma, Shanghái,35,Responsable de desarrollo de negocio,9,9,F,Negocio
+Dani Vallejo, Vizcaya,41,Empresario hostelero,10,9,F,Empresario/a
+Pepe Grande, Madrid,37,Músico,11,9,F,Música
+Alicia Fábrega, Madrid,43,Directora de marketing y publicidad,12,9,F,Publicidad y márqueting
+Vero Moreno, Cádiz,35,Guardia Civil,13,9,F,Defensa
+Álex Katib, Barcelona,28,Gestor deportivo,14,9,F,Deporte
+José María Montero, Badajoz,18,Estudiante de Restauración,15,9,F,Estudiante
+Jesús Hornillos, Burgos,69,Abogado jubilado,16,9,F,Jubilado/a
