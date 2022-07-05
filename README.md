@@ -42,11 +42,24 @@ Para poder comprobar dichas aafirmaciones, he realizado un análisis mediante la
 ## Conclusión.
 Una vez analizados los datos de las nueve ediciones, afloran las siguientes conclusiones:
 - La edad media de los concursantes se situa entorno a los 30 años, mientras que la media de ganadores se situa en los 28 años. ***INSIGHT Nº1: El concursante ganador de la edición 10 debe tender a edad 28-30 años.***
+
+
+
 - Ha habido un 52% de concursantes de género femenino y un 48% de concursantes masculinos. No obstante, ha habido 5 hombres ganadores y 4 mujeres. Además el patrón ha sido el siguiente: ***M-F-M-F-M-F-M-F-M   --> INSIGHT Nº2: El ganador de la edición 10 debe ser género Femenino***
-- Existe representación de todas las cidudades españolas a lo largo de la historia, pero solamente hay ganadores de: Barcelona, Madrid, Toledo, Cádiz, Granada, ALmería y Palma de Mallorca. *** INSIGHT Nº3: Si el reality quiere que haya representación de toda España, esta edición debería de ganar alguien procedente de una ciudad sin ganadores en la hsitoria***
-- Las ocupaciones previas al concurso han sido muy diversas, así como las ocupaciones de los ganadores. ***INSIGHT Nº4: El ganador de la 10ª edición no debería de coincidir en profesión con otros ganadores anteriores ***
-- De media, los ganadores han estado 5 veces en Equipos Perdodres durante la prueba de equipos y 4 veces en Equipos Ganadores. *** INSIGHT Nº5: Se espera que la combinación de pruebas ganadas y perdidas en equipo del ganador de la edición 10 sea similar***
 
 
+
+- Existe representación de todas las cidudades españolas a lo largo de la historia, pero solamente hay ganadores de: Barcelona, Madrid, Toledo, Cádiz, Granada, ALmería y Palma de Mallorca. ***INSIGHT Nº3: Si el reality quiere que haya representación de toda España, esta edición debería de ganar alguien procedente de una ciudad sin ganadores en la hsitoria***
+
+
+
+- Las ocupaciones previas al concurso han sido muy diversas, así como las ocupaciones de los ganadores. ***INSIGHT Nº4: El ganador de la 10ª edición no debería de coincidir en profesión con otros ganadores anteriores***
+
+
+
+- De media, los ganadores han estado 5 veces en Equipos Perdodres durante la prueba de equipos y 4 veces en Equipos Ganadores. ***INSIGHT Nº5: Se espera que la combinación de pruebas ganadas y perdidas en equipo del ganador de la edición 10 sea similar***
+
+
+--> Con todos estos insights he generado una expectativa numérica con probabilidades en cada aspecto de 0 a 1 para los 6 concursantes finalistas a día 04/07/2022. El objetivo: PREDECIR AL GANADOR DE LA 10º EDICIÓN.
 
 Proyecto 4 finalizado!!
